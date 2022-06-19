@@ -7,3 +7,5 @@ export function getBaseUrl(isServer: boolean): string {
   }
   return '';
 }
+
+console.log('test');
